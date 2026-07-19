@@ -1,0 +1,727 @@
+{
+    "name": "test doc",
+    "pages": [
+        {
+            "number": 1,
+            "imageUrl": "pages/1.png",
+            "annotations": [
+              {
+                "id": 1,
+                "type": "TEXT",
+                "data": "test1",
+                "x": 98,
+                "y": 16
+              },
+              {
+                "id": 2,
+                "type": "TEXT",
+                "data": "test2",
+                "x": 24,
+                "y": 62
+              },
+              {
+                "id": 3,
+                "type": "TEXT",
+                "data": "test3",
+                "x": 92,
+                "y": 82
+              },
+              {
+                "id": 4,
+                "type": "TEXT",
+                "data": "test4",
+                "x": 69,
+                "y": 85
+              },
+              {
+                "id": 5,
+                "type": "TEXT",
+                "data": "test5",
+                "x": 37,
+                "y": 36
+              },
+              {
+                "id": 6,
+                "type": "TEXT",
+                "data": "test6",
+                "x": 68,
+                "y": 90
+              },
+              {
+                "id": 7,
+                "type": "TEXT",
+                "data": "test7",
+                "x": 75,
+                "y": 28
+              },
+              {
+                "id": 8,
+                "type": "TEXT",
+                "data": "test8",
+                "x": 29,
+                "y": 50
+              },
+              {
+                "id": 9,
+                "type": "TEXT",
+                "data": "test9",
+                "x": 10,
+                "y": 36
+              },
+              {
+                "id": 10,
+                "type": "TEXT",
+                "data": "test10",
+                "x": 100,
+                "y": 94
+              },
+              {
+                "id": 11,
+                "type": "TEXT",
+                "data": "test11",
+                "x": 91,
+                "y": 20
+              },
+              {
+                "id": 12,
+                "type": "TEXT",
+                "data": "test12",
+                "x": 31,
+                "y": 89
+              },
+              {
+                "id": 13,
+                "type": "TEXT",
+                "data": "test13",
+                "x": 68,
+                "y": 88
+              },
+              {
+                "id": 14,
+                "type": "TEXT",
+                "data": "test14",
+                "x": 99,
+                "y": 57
+              },
+              {
+                "id": 15,
+                "type": "TEXT",
+                "data": "test15",
+                "x": 55,
+                "y": 84
+              },
+              {
+                "id": 16,
+                "type": "TEXT",
+                "data": "test16",
+                "x": 82,
+                "y": 54
+              },
+              {
+                "id": 17,
+                "type": "TEXT",
+                "data": "test17",
+                "x": 66,
+                "y": 97
+              },
+              {
+                "id": 18,
+                "type": "TEXT",
+                "data": "test18",
+                "x": 24,
+                "y": 99
+              },
+              {
+                "id": 19,
+                "type": "TEXT",
+                "data": "test19",
+                "x": 66,
+                "y": 45
+              },
+              {
+                "id": 20,
+                "type": "TEXT",
+                "data": "test20",
+                "x": 6,
+                "y": 93
+              },
+              {
+                "id": 21,
+                "type": "TEXT",
+                "data": "test21",
+                "x": 70,
+                "y": 92
+              },
+              {
+                "id": 22,
+                "type": "TEXT",
+                "data": "test22",
+                "x": 25,
+                "y": 45
+              },
+              {
+                "id": 23,
+                "type": "TEXT",
+                "data": "test23",
+                "x": 76,
+                "y": 29
+              },
+              {
+                "id": 24,
+                "type": "TEXT",
+                "data": "test24",
+                "x": 43,
+                "y": 64
+              },
+              {
+                "id": 25,
+                "type": "TEXT",
+                "data": "test25",
+                "x": 0,
+                "y": 70
+              },
+              {
+                "id": 26,
+                "type": "TEXT",
+                "data": "test26",
+                "x": 87,
+                "y": 95
+              },
+              {
+                "id": 27,
+                "type": "TEXT",
+                "data": "test27",
+                "x": 49,
+                "y": 97
+              },
+              {
+                "id": 28,
+                "type": "TEXT",
+                "data": "test28",
+                "x": 45,
+                "y": 93
+              },
+              {
+                "id": 29,
+                "type": "TEXT",
+                "data": "test29",
+                "x": 19,
+                "y": 84
+              },
+              {
+                "id": 30,
+                "type": "TEXT",
+                "data": "test30",
+                "x": 95,
+                "y": 36
+              },
+              {
+                "id": 31,
+                "type": "TEXT",
+                "data": "test31",
+                "x": 4,
+                "y": 71
+              },
+              {
+                "id": 32,
+                "type": "TEXT",
+                "data": "test32",
+                "x": 72,
+                "y": 22
+              },
+              {
+                "id": 33,
+                "type": "TEXT",
+                "data": "test33",
+                "x": 65,
+                "y": 6
+              },
+              {
+                "id": 34,
+                "type": "TEXT",
+                "data": "test34",
+                "x": 93,
+                "y": 42
+              },
+              {
+                "id": 35,
+                "type": "TEXT",
+                "data": "test35",
+                "x": 34,
+                "y": 2
+              },
+              {
+                "id": 36,
+                "type": "TEXT",
+                "data": "test36",
+                "x": 48,
+                "y": 13
+              },
+              {
+                "id": 37,
+                "type": "TEXT",
+                "data": "test37",
+                "x": 0,
+                "y": 64
+              },
+              {
+                "id": 38,
+                "type": "TEXT",
+                "data": "test38",
+                "x": 40,
+                "y": 64
+              },
+              {
+                "id": 39,
+                "type": "TEXT",
+                "data": "test39",
+                "x": 76,
+                "y": 21
+              },
+              {
+                "id": 40,
+                "type": "TEXT",
+                "data": "test40",
+                "x": 65,
+                "y": 89
+              },
+              {
+                "id": 41,
+                "type": "TEXT",
+                "data": "test41",
+                "x": 0,
+                "y": 21
+              },
+              {
+                "id": 42,
+                "type": "TEXT",
+                "data": "test42",
+                "x": 6,
+                "y": 48
+              },
+              {
+                "id": 43,
+                "type": "TEXT",
+                "data": "test43",
+                "x": 59,
+                "y": 66
+              },
+              {
+                "id": 44,
+                "type": "TEXT",
+                "data": "test44",
+                "x": 24,
+                "y": 26
+              },
+              {
+                "id": 45,
+                "type": "TEXT",
+                "data": "test45",
+                "x": 59,
+                "y": 82
+              },
+              {
+                "id": 46,
+                "type": "TEXT",
+                "data": "test46",
+                "x": 43,
+                "y": 39
+              },
+              {
+                "id": 47,
+                "type": "TEXT",
+                "data": "test47",
+                "x": 57,
+                "y": 31
+              },
+              {
+                "id": 48,
+                "type": "TEXT",
+                "data": "test48",
+                "x": 91,
+                "y": 100
+              },
+              {
+                "id": 49,
+                "type": "TEXT",
+                "data": "test49",
+                "x": 78,
+                "y": 97
+              },
+              {
+                "id": 50,
+                "type": "TEXT",
+                "data": "test50",
+                "x": 58,
+                "y": 78
+              },
+              {
+                "id": 51,
+                "type": "TEXT",
+                "data": "test51",
+                "x": 72,
+                "y": 33
+              },
+              {
+                "id": 52,
+                "type": "TEXT",
+                "data": "test52",
+                "x": 38,
+                "y": 22
+              },
+              {
+                "id": 53,
+                "type": "TEXT",
+                "data": "test53",
+                "x": 83,
+                "y": 45
+              },
+              {
+                "id": 54,
+                "type": "TEXT",
+                "data": "test54",
+                "x": 54,
+                "y": 65
+              },
+              {
+                "id": 55,
+                "type": "TEXT",
+                "data": "test55",
+                "x": 89,
+                "y": 24
+              },
+              {
+                "id": 56,
+                "type": "TEXT",
+                "data": "test56",
+                "x": 42,
+                "y": 63
+              },
+              {
+                "id": 57,
+                "type": "TEXT",
+                "data": "test57",
+                "x": 52,
+                "y": 64
+              },
+              {
+                "id": 58,
+                "type": "TEXT",
+                "data": "test58",
+                "x": 0,
+                "y": 1
+              },
+              {
+                "id": 59,
+                "type": "TEXT",
+                "data": "test59",
+                "x": 49,
+                "y": 64
+              },
+              {
+                "id": 60,
+                "type": "TEXT",
+                "data": "test60",
+                "x": 74,
+                "y": 0
+              },
+              {
+                "id": 61,
+                "type": "TEXT",
+                "data": "test61",
+                "x": 72,
+                "y": 86
+              },
+              {
+                "id": 62,
+                "type": "TEXT",
+                "data": "test62",
+                "x": 95,
+                "y": 84
+              },
+              {
+                "id": 63,
+                "type": "TEXT",
+                "data": "test63",
+                "x": 68,
+                "y": 5
+              },
+              {
+                "id": 64,
+                "type": "TEXT",
+                "data": "test64",
+                "x": 82,
+                "y": 100
+              },
+              {
+                "id": 65,
+                "type": "TEXT",
+                "data": "test65",
+                "x": 81,
+                "y": 54
+              },
+              {
+                "id": 66,
+                "type": "TEXT",
+                "data": "test66",
+                "x": 7,
+                "y": 61
+              },
+              {
+                "id": 67,
+                "type": "TEXT",
+                "data": "test67",
+                "x": 88,
+                "y": 96
+              },
+              {
+                "id": 68,
+                "type": "TEXT",
+                "data": "test68",
+                "x": 58,
+                "y": 94
+              },
+              {
+                "id": 69,
+                "type": "TEXT",
+                "data": "test69",
+                "x": 32,
+                "y": 15
+              },
+              {
+                "id": 70,
+                "type": "TEXT",
+                "data": "test70",
+                "x": 62,
+                "y": 80
+              },
+              {
+                "id": 71,
+                "type": "TEXT",
+                "data": "test71",
+                "x": 94,
+                "y": 74
+              },
+              {
+                "id": 72,
+                "type": "TEXT",
+                "data": "test72",
+                "x": 100,
+                "y": 77
+              },
+              {
+                "id": 73,
+                "type": "TEXT",
+                "data": "test73",
+                "x": 11,
+                "y": 32
+              },
+              {
+                "id": 74,
+                "type": "TEXT",
+                "data": "test74",
+                "x": 41,
+                "y": 38
+              },
+              {
+                "id": 75,
+                "type": "TEXT",
+                "data": "test75",
+                "x": 93,
+                "y": 77
+              },
+              {
+                "id": 76,
+                "type": "TEXT",
+                "data": "test76",
+                "x": 29,
+                "y": 55
+              },
+              {
+                "id": 77,
+                "type": "TEXT",
+                "data": "test77",
+                "x": 10,
+                "y": 32
+              },
+              {
+                "id": 78,
+                "type": "TEXT",
+                "data": "test78",
+                "x": 14,
+                "y": 89
+              },
+              {
+                "id": 79,
+                "type": "TEXT",
+                "data": "test79",
+                "x": 48,
+                "y": 27
+              },
+              {
+                "id": 80,
+                "type": "TEXT",
+                "data": "test80",
+                "x": 60,
+                "y": 9
+              },
+              {
+                "id": 81,
+                "type": "TEXT",
+                "data": "test81",
+                "x": 42,
+                "y": 63
+              },
+              {
+                "id": 82,
+                "type": "TEXT",
+                "data": "test82",
+                "x": 86,
+                "y": 31
+              },
+              {
+                "id": 83,
+                "type": "TEXT",
+                "data": "test83",
+                "x": 60,
+                "y": 73
+              },
+              {
+                "id": 84,
+                "type": "TEXT",
+                "data": "test84",
+                "x": 94,
+                "y": 25
+              },
+              {
+                "id": 85,
+                "type": "TEXT",
+                "data": "test85",
+                "x": 100,
+                "y": 91
+              },
+              {
+                "id": 86,
+                "type": "TEXT",
+                "data": "test86",
+                "x": 73,
+                "y": 74
+              },
+              {
+                "id": 87,
+                "type": "TEXT",
+                "data": "test87",
+                "x": 46,
+                "y": 49
+              },
+              {
+                "id": 88,
+                "type": "TEXT",
+                "data": "test88",
+                "x": 85,
+                "y": 50
+              },
+              {
+                "id": 89,
+                "type": "TEXT",
+                "data": "test89",
+                "x": 21,
+                "y": 64
+              },
+              {
+                "id": 90,
+                "type": "TEXT",
+                "data": "test90",
+                "x": 90,
+                "y": 64
+              },
+              {
+                "id": 91,
+                "type": "TEXT",
+                "data": "test91",
+                "x": 42,
+                "y": 73
+              },
+              {
+                "id": 92,
+                "type": "TEXT",
+                "data": "test92",
+                "x": 39,
+                "y": 23
+              },
+              {
+                "id": 93,
+                "type": "TEXT",
+                "data": "test93",
+                "x": 46,
+                "y": 97
+              },
+              {
+                "id": 94,
+                "type": "TEXT",
+                "data": "test94",
+                "x": 37,
+                "y": 40
+              },
+              {
+                "id": 95,
+                "type": "TEXT",
+                "data": "test95",
+                "x": 90,
+                "y": 37
+              },
+              {
+                "id": 96,
+                "type": "TEXT",
+                "data": "test96",
+                "x": 77,
+                "y": 74
+              },
+              {
+                "id": 97,
+                "type": "TEXT",
+                "data": "test97",
+                "x": 56,
+                "y": 41
+              },
+              {
+                "id": 98,
+                "type": "TEXT",
+                "data": "test98",
+                "x": 31,
+                "y": 99
+              },
+              {
+                "id": 99,
+                "type": "TEXT",
+                "data": "test99",
+                "x": 72,
+                "y": 38
+              },
+              {
+                "id": 100,
+                "type": "TEXT",
+                "data": "test100",
+                "x": 38,
+                "y": 54
+              }
+            ]
+        },
+        {
+            "number": 2,
+            "imageUrl": "pages/2.png"
+        },
+        {
+            "number": 3,
+            "imageUrl": "pages/3.png"
+        },
+        {
+            "number": 4,
+            "imageUrl": "pages/4.png"
+        },
+        {
+            "number": 5,
+            "imageUrl": "pages/5.png"
+        }
+    ]
+}

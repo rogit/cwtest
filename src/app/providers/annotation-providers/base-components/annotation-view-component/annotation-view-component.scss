@@ -1,0 +1,13 @@
+.annotation-view {
+  &__content {
+    position: absolute;
+    gap: 4px;
+    cursor: pointer;
+    display: flex;
+  }
+
+  &__remove {
+    font-weight: bold;
+    background: none;
+  }
+}

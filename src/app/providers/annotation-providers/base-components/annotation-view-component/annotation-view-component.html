@@ -1,0 +1,17 @@
+<div class="annotation-view">
+  @if (annotation(); as annotation) {
+    <div class="annotation-view__content"
+         [style.top.px]="top()"
+         [style.left.px]="left()"
+    >
+      <ng-container
+        [ngComponentOutlet]="annotationViewComponent(annotation.type)"
+        [ngComponentOutletInputs]="{ annotation }"
+      />
+
+      <div class="annotation-view__remove" (click)="delete()">
+        &times;
+      </div>
+    </div>
+  }
+</div>

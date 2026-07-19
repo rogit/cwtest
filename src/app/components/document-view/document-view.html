@@ -1,0 +1,14 @@
+<div class="document-view">
+  @if (document(); as doc) {
+    <div class="document-view__buttons">
+      <app-control-buttons/>
+    </div>
+
+    <div class="document-view__document">
+      @for(page of doc.pages; let first = $first; track page.number;) {
+        <app-page-view [page]="page" class="document-view__page" [first]="first"/>
+      }
+    </div>
+  }
+</div>
+

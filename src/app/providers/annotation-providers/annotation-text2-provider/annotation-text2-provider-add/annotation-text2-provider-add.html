@@ -1,0 +1,7 @@
+<div>
+  <textarea rows="3" [(ngModel)]="text"></textarea>
+  <div class="buttons">
+    <button (click)="add()" [disabled]="!text()">Add</button>
+    <button (click)="close()">Cancel</button>
+  </div>
+</div>

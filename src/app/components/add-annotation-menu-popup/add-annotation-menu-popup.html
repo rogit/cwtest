@@ -1,0 +1,10 @@
+<div #container></div>
+@if (annotationProviders.length > 1) {
+  <div class="add-annotation-menu-popup__buttons">
+    @for(provider of annotationProviders; track provider.type) {
+      <button (click)="showAddAnnotationComponent($event, provider)">{{ provider.menuText }}</button>
+    }
+    <button (click)="close($event)">Отмена</button>
+  </div>
+}
+

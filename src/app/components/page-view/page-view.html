@@ -1,0 +1,12 @@
+@if (page(); as pageValue) {
+  <div [style.width.vw]="zoomService.zoom()" #container class="page-view">
+    <img class="page-view__img" [src]="pageValue.imageUrl" alt=""/>
+    @for(annotation of pageValue.annotations; track annotation.id) {
+      <ng-container
+        [ngComponentOutlet]="annotationViewComponent"
+        [ngComponentOutletInputs]="{ annotation, offsetTop: this.elementRef.offsetTop }"
+      />
+    }
+  </div>
+}
+
