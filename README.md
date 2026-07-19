@@ -1,6 +1,6 @@
 # CwTest
 
-http://localhost:4200/viewer/view/1 - без аннотаций
+http://localhost:4200/viewer/view/1
 
 http://localhost:4200/viewer/view/2 - 100 аннотаций на 1-й странице
 

@@ -1,6 +1,6 @@
-import {effect, Injectable, Service, Signal, signal, WritableSignal} from '@angular/core';
+import {effect, Service, Signal, signal} from '@angular/core';
 import {Annotation, Document, Page} from '../../models/document.model';
-import {httpResource, HttpResourceRef} from '@angular/common/http';
+import {httpResource} from '@angular/common/http';
 
 @Service()
 export class DocumentService {

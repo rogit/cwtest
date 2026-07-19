@@ -1,5 +1,4 @@
-import {ChangeDetectionStrategy, Component, ElementRef, inject, input, output, signal} from '@angular/core';
-import {FormsModule} from '@angular/forms';
+import {ChangeDetectionStrategy, Component, inject, signal} from '@angular/core';import {FormsModule} from '@angular/forms';
 import {ANNOTATION_ADD_CALLBACK, ANNOTATION_CLOSE_CALLBACK} from '../../annotation-provider.const';
 
 @Component({
