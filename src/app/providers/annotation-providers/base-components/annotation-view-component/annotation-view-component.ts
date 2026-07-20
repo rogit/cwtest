@@ -74,7 +74,6 @@ export class AnnotationViewComponent {
       x: dx,
       y: dy,
     });
-
   };
 
   private onMouseUp = () => {
@@ -84,17 +83,19 @@ export class AnnotationViewComponent {
     let x = (this.left()) * 100 / this.zoomService.pageState().width
     if (x < 0) {
       x = 0;
-    }
-    if (x > 100) {
-      x = 100;
+    } else {
+      if (x > 100) {
+        x = 100;
+      }
     }
 
     let y = (this.top()) * 100 / this.zoomService.pageState().height;
     if (y < 0) {
       y = 0;
-    }
-    if (y > 100) {
-      y = 100;
+    } else {
+      if (y > 100) {
+        y = 100;
+      }
     }
 
     this.dragOffset.set({x: 0, y: 0});

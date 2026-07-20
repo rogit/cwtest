@@ -89,7 +89,9 @@ export class PageView implements AfterViewInit {
   }
 
   private showAddAnnotationMenu(event: MouseEvent): void {
-    if (this.componentRef) this.componentRef.destroy();
+    if (this.componentRef) {
+      this.componentRef.destroy();
+    }
 
     this.componentRef = this.viewContainerRef.createComponent(AddAnnotationMenuPopup);
     this.componentRef.setInput('x', event.pageX);
